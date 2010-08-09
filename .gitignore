@@ -1,0 +1,5 @@
+.bundle
+db/*.sqlite3
+db/*.db
+config/login.rb
+.DS_Store
